@@ -1,0 +1,410 @@
+{
+  "site": {
+    "name": "历史与文明",
+    "tagline": "人类历史的数字百科全书"
+  },
+  "skip": "跳到正文",
+  "nav": {
+    "home": "首页",
+    "civilizations": "文明",
+    "search": "搜索",
+    "about": "关于",
+    "menu": "菜单",
+    "primary": "主导航",
+    "people": "人物",
+    "events": "事件",
+    "places": "地点",
+    "articles": "文章",
+    "timeline": "时间线",
+    "map": "地图",
+    "quizzes": "测验",
+    "compare": "对比",
+    "onThisDay": "历史上的今天",
+    "more": "更多",
+    "mysteries": "未解之谜",
+    "archaeology": "考古",
+    "technology": "古代技术",
+    "familyTrees": "家谱"
+  },
+  "theme": {
+    "toggle": "切换浅色与深色模式"
+  },
+  "lang": {
+    "label": "语言"
+  },
+  "hero": {
+    "title": "探索塑造人类文明的故事",
+    "subtitle": "了解文明、帝国、历史人物、考古发现、古代技术以及过去的未解之谜。",
+    "placeholder": "搜索历史、文明、人物、地点……",
+    "button": "搜索"
+  },
+  "home": {
+    "featured": "探索文明",
+    "viewAll": "查看全部文明",
+    "regions": "探索世界",
+    "chronologyTitle": "跨越时间的文明",
+    "chronologyIntro": "每个横条表示一个文明的大致存续时间。点击即可打开对应页面。",
+    "openTimeline": "打开交互式时间线",
+    "openMap": "打开地图"
+  },
+  "civ": {
+    "title": "文明",
+    "intro": "从美索不达米亚最早的城市到美洲的帝国。按地区筛选以浏览。",
+    "allRegions": "所有地区",
+    "period": "时期",
+    "region": "地区",
+    "notTranslated": "此页面尚无您所用语言的版本，当前显示英文内容。",
+    "reviewDraft": "状态：草稿。在本页面作为已审核内容发布之前，仍在补充来源并核实事实。",
+    "back": "全部文明",
+    "count": "共 {n} 个文明"
+  },
+  "search": {
+    "title": "搜索",
+    "placeholder": "搜索历史、文明、人物、地点……",
+    "button": "搜索",
+    "results": "“{q}”共有 {n} 条结果",
+    "none": "没有找到“{q}”的结果。请检查拼写，或尝试更宽泛的词，例如文明或地区名称。",
+    "hint": "输入名称，例如埃及、罗马或玛雅。搜索支持本站所有语言。",
+    "type": "文明",
+    "recent": "最近搜索",
+    "popular": "热门搜索",
+    "clear": "清除",
+    "filters": "筛选",
+    "typeFilter": "内容类型",
+    "civFilter": "文明",
+    "periodFilter": "时期",
+    "regionFilter": "地区",
+    "all": "全部",
+    "reset": "重置筛选",
+    "before": "{y}以前",
+    "after": "{y}以后",
+    "resultsBrowse": "共 {n} 条结果",
+    "noneFilters": "没有符合这些筛选条件的结果。",
+    "suggestions": "搜索建议"
+  },
+  "era": {
+    "bce": "公元前",
+    "ce": "公元",
+    "circa": "约"
+  },
+  "regions": {
+    "africa": "非洲",
+    "middleEast": "中东",
+    "europe": "欧洲",
+    "asia": "亚洲",
+    "americas": "美洲"
+  },
+  "about": {
+    "title": "关于本项目",
+    "body1": "历史与文明是一部多语言的人类历史数字百科全书，设计目标是从寥寥数页扩展到数千页。",
+    "body2": "每个页面都遵循同一流程：研究、起草、来源核实、人工审核、发布。尚未完成审核的页面会标记为草稿。",
+    "body3": "只有在许可允许时才会使用图片，每张图片都注明来源、作者和许可。"
+  },
+  "footer": {
+    "explore": "浏览",
+    "project": "项目",
+    "languages": "语言",
+    "disclaimer": "标记为草稿的内容尚未完全对照来源核实。"
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "label": "面包屑导航"
+  },
+  "types": {
+    "civilization": "文明",
+    "person": "人物",
+    "event": "事件",
+    "place": "地点",
+    "article": "文章",
+    "mystery": "谜题",
+    "artifact": "文物",
+    "technology": "技术"
+  },
+  "lists": {
+    "people": {
+      "title": "历史人物",
+      "intro": "塑造了各自世界的统治者、将领与思想家。"
+    },
+    "events": {
+      "title": "事件",
+      "intro": "战役、建立与转折点，按时间顺序排列。"
+    },
+    "places": {
+      "title": "地点",
+      "intro": "城市与考古遗址，附有所在位置。"
+    },
+    "articles": {
+      "title": "文章",
+      "intro": "基于来源的短文，每篇文章都列出参考文献。"
+    }
+  },
+  "detail": {
+    "life": "生平",
+    "date": "时间",
+    "location": "位置",
+    "coordinates": "坐标",
+    "certainty": "可靠程度",
+    "certaintyValues": {
+      "established": "证据确凿",
+      "approximate": "大致时间",
+      "debated": "学界存在争议"
+    },
+    "kind": {
+      "city": "城市",
+      "site": "考古遗址"
+    },
+    "civilizations": "文明",
+    "people": "人物",
+    "events": "事件",
+    "places": "地点",
+    "articles": "文章",
+    "sources": "来源与参考文献",
+    "sourcesNote": "用于开始核实的文献信息。尚未由人工审核者逐页核对。",
+    "noSources": "尚未附上来源。在补充来源之前，本页保持草稿状态。",
+    "primary": "原始文献",
+    "academic": "学术著作",
+    "by": "作者",
+    "published": "发布",
+    "updated": "更新",
+    "minRead": "阅读约 {n} 分钟",
+    "count": "共 {n} 条",
+    "circa": "约",
+    "born": "生于",
+    "died": "卒于",
+    "authorPage": "作者",
+    "authorArticles": "该作者的文章",
+    "backTo": "返回{x}"
+  },
+  "roles": {
+    "ruler": "统治者",
+    "statesman": "政治家"
+  },
+  "rel": {
+    "people": "人物",
+    "events": "事件",
+    "places": "地点",
+    "articles": "文章",
+    "civilizations": "文明",
+    "sources": "来源与延伸阅读",
+    "timeline": "时间线"
+  },
+  "lbl": {
+    "born": "出生",
+    "died": "逝世",
+    "date": "时间",
+    "coordinates": "坐标",
+    "unknown": "不详",
+    "author": "作者",
+    "updated": "最近更新",
+    "readingTime": "阅读约 {n} 分钟",
+    "openMap": "在 OpenStreetMap 中打开",
+    "sourcesNote": "这些著作仅作为推荐阅读列出。本页的具体说法尚未逐条对照核实。",
+    "role": "身份"
+  },
+  "pages": {
+    "people": {
+      "title": "人物",
+      "intro": "塑造古代世界的统治者、政治家与其他人物。"
+    },
+    "events": {
+      "title": "事件",
+      "intro": "战役、征服与转折点，按时间顺序排列。"
+    },
+    "places": {
+      "title": "地点",
+      "intro": "城市、圣地与考古遗址，附坐标。"
+    },
+    "articles": {
+      "title": "文章",
+      "intro": "连接文明、人物、事件与地点的简短解读。"
+    }
+  },
+  "timeline": {
+    "title": "时间线",
+    "intro": "缩放并浏览时间。横条表示文明，圆点表示事件。点击事件查看详情。",
+    "zoomIn": "放大",
+    "zoomOut": "缩小",
+    "reset": "显示全部",
+    "panBack": "更早",
+    "panForward": "更晚",
+    "viewing": "当前显示：{a} – {b}",
+    "jump": "跳转到",
+    "eras": {
+      "ancient": "古代史",
+      "classical": "古典时代",
+      "lateAntiquity": "古代晚期",
+      "middleAges": "中世纪",
+      "earlyModern": "近代早期",
+      "modern": "近现代"
+    },
+    "civRow": "文明",
+    "eventRow": "事件",
+    "inView": "当前范围内的事件",
+    "none": "这一时期暂时没有内容，资料库仍在扩充。",
+    "close": "关闭",
+    "openPage": "打开完整页面",
+    "openCiv": "打开文明页面"
+  },
+  "eras": {
+    "prehistory": "史前",
+    "ancient": "古代史",
+    "classical": "古典时代",
+    "lateAntiquity": "古代晚期",
+    "middleAges": "中世纪",
+    "earlyModern": "近代早期",
+    "modern": "近现代"
+  },
+  "map": {
+    "title": "历史地图",
+    "intro": "按文明浏览地点。选择地点查看详情。",
+    "allCivs": "所有文明",
+    "civFilter": "文明",
+    "list": "地点",
+    "hint": "请在地图或列表中选择一个地点。",
+    "baseNote": "底图显示的是现代地理，尚未绘制历史疆界。",
+    "open": "打开地图",
+    "viewPage": "打开完整页面",
+    "loading": "正在加载地图……"
+  },
+  "periods": {
+    "prehistory": "史前时代",
+    "ancient": "上古史",
+    "classical": "古典时代",
+    "lateAntiquity": "古代晚期",
+    "middleAges": "中世纪",
+    "earlyModern": "近代早期",
+    "modern": "近现代"
+  },
+  "tl": {
+    "title": "互动时间线",
+    "intro": "缩放时间轴，选择事件查看详情。时代分界属于约定俗成，不同史学家的划分有所差异。",
+    "zoomIn": "放大",
+    "zoomOut": "缩小",
+    "close": "关闭",
+    "allCivs": "所有文明",
+    "civFilter": "文明",
+    "open": "打开互动时间线",
+    "viewPage": "打开完整页面",
+    "civBars": "文明",
+    "eventsRow": "事件"
+  },
+  "quiz": {
+    "title": "测验",
+    "intro": "测试你对某个文明的了解。答案与解析将在结束时显示。",
+    "count": "共 {n} 题",
+    "question": "第 {n} 题，共 {m} 题",
+    "next": "下一题",
+    "previous": "上一题",
+    "finish": "完成",
+    "chooseFirst": "请先选择一个答案再继续。",
+    "score": "得分：{s} / {m}",
+    "correctN": "答对：{n} 题",
+    "wrongN": "答错：{n} 题",
+    "yourAnswer": "你的答案",
+    "correctAnswer": "正确答案",
+    "explanation": "解析",
+    "retake": "重新测验",
+    "all": "全部测验",
+    "correct": "正确",
+    "wrong": "错误"
+  },
+  "cmp": {
+    "title": "文明对比",
+    "intro": "将两个文明并排比较。对比只描述异同，不作优劣排名。",
+    "civA": "第一个文明",
+    "civB": "第二个文明",
+    "quick": "快速对比",
+    "note": "军事、科学与文化行尚未加入。文字仅为简要导览，尚未逐页核实。",
+    "dims": {
+      "period": "时期",
+      "region": "地区",
+      "geography": "地理",
+      "government": "政体",
+      "religion": "宗教",
+      "writing": "文字",
+      "architecture": "建筑",
+      "economy": "经济"
+    }
+  },
+  "otd": {
+    "title": "历史上的今天",
+    "intro": "发生在某个日历日期的历史事件。",
+    "today": "今天",
+    "month": "月",
+    "day": "日",
+    "none": "当前数据中没有该日期的条目。",
+    "upcoming": "数据中接下来的日期",
+    "note": "古代事件的日期按儒略历计，精确到日的程度不一。只列出日期有文献依据的条目，随着经核实的条目增加，列表会逐步扩充。"
+  },
+  "mys": {
+    "title": "历史之谜",
+    "intro": "过去的悬而未决之问。每个条目都区分已知内容与仅属推测的内容。",
+    "note": "理论只作为理论呈现。除非条目另有说明，这里没有任何内容被当作既定事实。",
+    "sections": {
+      "know": "已知内容",
+      "evidence": "证据",
+      "unknown": "未知内容",
+      "theories": "历史学说",
+      "arguments": "论据",
+      "uncertainty": "不确定性"
+    }
+  },
+  "arch": {
+    "title": "考古",
+    "intro": "承载古代历史证据的遗址与器物。",
+    "sites": "考古遗址",
+    "artifacts": "文物",
+    "heldAt": "收藏于"
+  },
+  "tech": {
+    "title": "古代技术",
+    "intro": "古代社会如何建造、引水和记录。",
+    "category": "领域",
+    "categories": {
+      "construction": "建筑",
+      "water": "水利",
+      "writing": "书写材料"
+    }
+  },
+  "tree": {
+    "title": "家谱",
+    "intro": "互动家谱。选择有页面的人物即可打开。",
+    "legend": {
+      "parent": "亲代到子代",
+      "spouse": "配偶",
+      "partner": "伴侣（正式婚姻不确定或未证实）"
+    },
+    "relationships": "文字形式的关系",
+    "rel": {
+      "parent": "{a}是{b}的亲代",
+      "spouse": "{a}与{b}是配偶",
+      "partner": "{a}与{b}是伴侣"
+    }
+  },
+  "legalNav": {
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "terms": "条款与条件",
+    "disclaimer": "免责声明",
+    "cookies": "Cookie 政策",
+    "sources": "来源",
+    "authors": "作者"
+  },
+  "legal": {
+    "notConfigured": "[由网站运营者补充]",
+    "template": "模板文本。网站运营者须在上线前补全运营者信息，并请法律人士审阅本页面。",
+    "lastUpdated": "最近更新",
+    "contactIntro": "欢迎提问、指正与推荐来源。指出历史内容的错误时，若能注明来源会更有帮助。",
+    "noEmail": "尚未配置联系地址。",
+    "emailLabel": "电子邮件",
+    "sourcesIntro": "本站列为推荐阅读的全部著作。列入并不表示页面上的每一项说法都已对照核实。在核实完成前，页面保持草稿状态。",
+    "citedOn": "引用于",
+    "authorsIntro": "撰写和审核内容的人员与团队。"
+  },
+  "consent": {
+    "text": "本站可使用 Google Analytics 了解哪些页面被阅读。仅在你同意后才会加载。拒绝不会影响网站的使用。",
+    "accept": "接受",
+    "decline": "拒绝",
+    "settings": "Cookie 设置"
+  }
+}

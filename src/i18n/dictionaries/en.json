@@ -1,0 +1,410 @@
+{
+  "site": {
+    "name": "History & Civilizations",
+    "tagline": "A digital encyclopedia of human history"
+  },
+  "skip": "Skip to content",
+  "nav": {
+    "home": "Home",
+    "civilizations": "Civilizations",
+    "search": "Search",
+    "about": "About",
+    "menu": "Menu",
+    "primary": "Main navigation",
+    "people": "People",
+    "events": "Events",
+    "places": "Places",
+    "articles": "Articles",
+    "timeline": "Timeline",
+    "map": "Map",
+    "quizzes": "Quizzes",
+    "compare": "Compare",
+    "onThisDay": "On This Day",
+    "more": "More",
+    "mysteries": "Mysteries",
+    "archaeology": "Archaeology",
+    "technology": "Ancient technology",
+    "familyTrees": "Family trees"
+  },
+  "theme": {
+    "toggle": "Switch between light and dark mode"
+  },
+  "lang": {
+    "label": "Language"
+  },
+  "hero": {
+    "title": "Discover the Stories That Shaped Human Civilization",
+    "subtitle": "Explore civilizations, empires, historical figures, archaeological discoveries, ancient technology and the mysteries of the past.",
+    "placeholder": "Search history, civilizations, people, places...",
+    "button": "Search"
+  },
+  "home": {
+    "featured": "Explore civilizations",
+    "viewAll": "View all civilizations",
+    "regions": "Explore the world",
+    "chronologyTitle": "Civilizations across time",
+    "chronologyIntro": "Each bar spans the approximate lifetime of a civilization. Select one to open its page.",
+    "openTimeline": "Open the interactive timeline",
+    "openMap": "Open the map"
+  },
+  "civ": {
+    "title": "Civilizations",
+    "intro": "From the first cities of Mesopotamia to the empires of the Americas. Filter by region to explore.",
+    "allRegions": "All regions",
+    "period": "Period",
+    "region": "Region",
+    "notTranslated": "This page has not been translated into your language yet. The English text is shown.",
+    "reviewDraft": "Status: draft. Sources and fact-checking are still being added before this page is published as reviewed.",
+    "back": "All civilizations",
+    "count": "{n} civilizations"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search history, civilizations, people, places...",
+    "button": "Search",
+    "results": "{n} results for “{q}”",
+    "none": "No results for “{q}”. Check the spelling or try a broader term, for example a civilization or region.",
+    "hint": "Type a name such as Egypt, Rome or Maya. Search works across all site languages.",
+    "type": "Civilization",
+    "recent": "Recent searches",
+    "popular": "Popular searches",
+    "clear": "Clear",
+    "filters": "Filters",
+    "typeFilter": "Content type",
+    "civFilter": "Civilization",
+    "periodFilter": "Period",
+    "regionFilter": "Region",
+    "all": "All",
+    "reset": "Reset filters",
+    "before": "Before {y}",
+    "after": "After {y}",
+    "resultsBrowse": "{n} results",
+    "noneFilters": "No results match these filters.",
+    "suggestions": "Suggestions"
+  },
+  "era": {
+    "bce": "BCE",
+    "ce": "CE",
+    "circa": "c."
+  },
+  "regions": {
+    "africa": "Africa",
+    "middleEast": "Middle East",
+    "europe": "Europe",
+    "asia": "Asia",
+    "americas": "Americas"
+  },
+  "about": {
+    "title": "About this project",
+    "body1": "History & Civilizations is a multilingual digital encyclopedia of human history, built to grow from a handful of pages to thousands.",
+    "body2": "Every page follows one workflow: research, draft, source verification, human review, publish. Pages that have not completed review are marked as drafts.",
+    "body3": "Images are only used when their license allows it, and each image carries its source, creator and license."
+  },
+  "footer": {
+    "explore": "Explore",
+    "project": "Project",
+    "languages": "Languages",
+    "disclaimer": "Content marked as draft has not yet been fully verified against sources."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "label": "Breadcrumb"
+  },
+  "types": {
+    "civilization": "Civilization",
+    "person": "Person",
+    "event": "Event",
+    "place": "Place",
+    "article": "Article",
+    "mystery": "Mystery",
+    "artifact": "Artifact",
+    "technology": "Technology"
+  },
+  "lists": {
+    "people": {
+      "title": "Historical figures",
+      "intro": "Rulers, generals and thinkers who shaped their worlds."
+    },
+    "events": {
+      "title": "Events",
+      "intro": "Battles, foundations and turning points, in chronological order."
+    },
+    "places": {
+      "title": "Places",
+      "intro": "Cities and archaeological sites, each with its location."
+    },
+    "articles": {
+      "title": "Articles",
+      "intro": "Short, source-based reads. Every article lists its references."
+    }
+  },
+  "detail": {
+    "life": "Life",
+    "date": "Date",
+    "location": "Location",
+    "coordinates": "Coordinates",
+    "certainty": "Certainty",
+    "certaintyValues": {
+      "established": "Well established",
+      "approximate": "Approximate date",
+      "debated": "Debated among scholars"
+    },
+    "kind": {
+      "city": "City",
+      "site": "Archaeological site"
+    },
+    "civilizations": "Civilizations",
+    "people": "People",
+    "events": "Events",
+    "places": "Places",
+    "articles": "Articles",
+    "sources": "Sources & references",
+    "sourcesNote": "Bibliographic references to start verification. They have not yet been checked page by page by a human reviewer.",
+    "noSources": "No sources have been attached yet. This page stays a draft until they are.",
+    "primary": "Primary source",
+    "academic": "Academic work",
+    "by": "By",
+    "published": "Published",
+    "updated": "Updated",
+    "minRead": "{n} min read",
+    "count": "{n} entries",
+    "circa": "c.",
+    "born": "born",
+    "died": "died",
+    "authorPage": "Author",
+    "authorArticles": "Articles by this author",
+    "backTo": "Back to {x}"
+  },
+  "roles": {
+    "ruler": "Ruler",
+    "statesman": "Statesman"
+  },
+  "rel": {
+    "people": "People",
+    "events": "Events",
+    "places": "Places",
+    "articles": "Articles",
+    "civilizations": "Civilizations",
+    "sources": "Sources and further reading",
+    "timeline": "Timeline"
+  },
+  "lbl": {
+    "born": "Born",
+    "died": "Died",
+    "date": "Date",
+    "coordinates": "Coordinates",
+    "unknown": "unknown",
+    "author": "Author",
+    "updated": "Last updated",
+    "readingTime": "{n} min read",
+    "openMap": "Open in OpenStreetMap",
+    "sourcesNote": "These works are listed as recommended reading. Individual claims on this page have not yet been checked against them page by page.",
+    "role": "Role"
+  },
+  "pages": {
+    "people": {
+      "title": "People",
+      "intro": "Rulers, statesmen and other figures who shaped the ancient world."
+    },
+    "events": {
+      "title": "Events",
+      "intro": "Battles, conquests and turning points, in chronological order."
+    },
+    "places": {
+      "title": "Places",
+      "intro": "Cities, sanctuaries and archaeological sites, with coordinates."
+    },
+    "articles": {
+      "title": "Articles",
+      "intro": "Short explainers that connect civilizations, people, events and places."
+    }
+  },
+  "timeline": {
+    "title": "Timeline",
+    "intro": "Zoom and move through time. Bars show civilizations, dots show events. Select an event for details.",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "reset": "Show everything",
+    "panBack": "Earlier",
+    "panForward": "Later",
+    "viewing": "Showing {a} – {b}",
+    "jump": "Jump to",
+    "eras": {
+      "ancient": "Ancient History",
+      "classical": "Classical Antiquity",
+      "lateAntiquity": "Late Antiquity",
+      "middleAges": "Middle Ages",
+      "earlyModern": "Early Modern Period",
+      "modern": "Modern History"
+    },
+    "civRow": "Civilizations",
+    "eventRow": "Events",
+    "inView": "Events in this view",
+    "none": "Nothing in this period yet. The collection is still growing.",
+    "close": "Close",
+    "openPage": "Open full page",
+    "openCiv": "Open civilization page"
+  },
+  "eras": {
+    "prehistory": "Prehistory",
+    "ancient": "Ancient History",
+    "classical": "Classical Antiquity",
+    "lateAntiquity": "Late Antiquity",
+    "middleAges": "Middle Ages",
+    "earlyModern": "Early Modern Period",
+    "modern": "Modern History"
+  },
+  "map": {
+    "title": "Historical map",
+    "intro": "Explore places by civilization. Select a place for details.",
+    "allCivs": "All civilizations",
+    "civFilter": "Civilization",
+    "list": "Places",
+    "hint": "Select a place on the map or in the list.",
+    "baseNote": "The base map shows modern geography. Historical borders are not drawn yet.",
+    "open": "Open the map",
+    "viewPage": "Open full page",
+    "loading": "Loading map…"
+  },
+  "periods": {
+    "prehistory": "Prehistory",
+    "ancient": "Ancient History",
+    "classical": "Classical Antiquity",
+    "lateAntiquity": "Late Antiquity",
+    "middleAges": "Middle Ages",
+    "earlyModern": "Early Modern Period",
+    "modern": "Modern History"
+  },
+  "tl": {
+    "title": "Interactive timeline",
+    "intro": "Zoom in and out, then select an event for details. Era boundaries are conventional and vary between historians.",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "close": "Close",
+    "allCivs": "All civilizations",
+    "civFilter": "Civilization",
+    "open": "Open the interactive timeline",
+    "viewPage": "Open full page",
+    "civBars": "Civilizations",
+    "eventsRow": "Events"
+  },
+  "quiz": {
+    "title": "Quizzes",
+    "intro": "Test what you know about a civilization. Answers and explanations appear at the end.",
+    "count": "{n} questions",
+    "question": "Question {n} of {m}",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "Finish",
+    "chooseFirst": "Choose an answer to continue.",
+    "score": "Score: {s} of {m}",
+    "correctN": "Correct answers: {n}",
+    "wrongN": "Wrong answers: {n}",
+    "yourAnswer": "Your answer",
+    "correctAnswer": "Correct answer",
+    "explanation": "Explanation",
+    "retake": "Retake the quiz",
+    "all": "All quizzes",
+    "correct": "Correct",
+    "wrong": "Wrong"
+  },
+  "cmp": {
+    "title": "Compare civilizations",
+    "intro": "Place two civilizations side by side. The comparison describes similarities and differences. It does not rank them.",
+    "civA": "First civilization",
+    "civB": "Second civilization",
+    "quick": "Quick comparisons",
+    "note": "Rows for military, science and culture are not included yet. Text is a short orientation and has not yet been verified page by page.",
+    "dims": {
+      "period": "Period",
+      "region": "Region",
+      "geography": "Geography",
+      "government": "Government",
+      "religion": "Religion",
+      "writing": "Writing",
+      "architecture": "Architecture",
+      "economy": "Economy"
+    }
+  },
+  "otd": {
+    "title": "On This Day",
+    "intro": "Historical events that happened on a given calendar date.",
+    "today": "Today",
+    "month": "Month",
+    "day": "Day",
+    "none": "No entry for this date in the current dataset.",
+    "upcoming": "Next dates in the dataset",
+    "note": "Dates of ancient events follow the Julian calendar, and precision at the level of the day varies. Only entries with a documented day are listed, and the list grows as verified entries are added."
+  },
+  "mys": {
+    "title": "Historical mysteries",
+    "intro": "Open questions of the past. Each entry separates what is known from what is only proposed.",
+    "note": "Theories are presented as theories. Nothing here is offered as established fact unless the entry says so.",
+    "sections": {
+      "know": "What we know",
+      "evidence": "Evidence",
+      "unknown": "What we don't know",
+      "theories": "Historical theories",
+      "arguments": "Arguments",
+      "uncertainty": "Uncertainty"
+    }
+  },
+  "arch": {
+    "title": "Archaeology",
+    "intro": "Sites and objects that carry the evidence for ancient history.",
+    "sites": "Archaeological sites",
+    "artifacts": "Artifacts",
+    "heldAt": "Held at"
+  },
+  "tech": {
+    "title": "Ancient technology",
+    "intro": "How ancient societies built, moved water and kept records.",
+    "category": "Field",
+    "categories": {
+      "construction": "Construction",
+      "water": "Water management",
+      "writing": "Writing materials"
+    }
+  },
+  "tree": {
+    "title": "Family trees",
+    "intro": "Interactive family trees. Select a person with a page to open it.",
+    "legend": {
+      "parent": "Parent to child",
+      "spouse": "Spouse",
+      "partner": "Partner (formal marriage uncertain or not established)"
+    },
+    "relationships": "Relationships in text form",
+    "rel": {
+      "parent": "{a} is a parent of {b}",
+      "spouse": "{a} and {b} were spouses",
+      "partner": "{a} and {b} were partners"
+    }
+  },
+  "legalNav": {
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "disclaimer": "Disclaimer",
+    "cookies": "Cookie Policy",
+    "sources": "Sources",
+    "authors": "Authors"
+  },
+  "legal": {
+    "notConfigured": "[to be completed by the site operator]",
+    "template": "Template text. The site operator must complete the operator details and have this page reviewed legally before launch.",
+    "lastUpdated": "Last updated",
+    "contactIntro": "Questions, corrections and source suggestions are welcome. Corrections to historical content help most when they name a source.",
+    "noEmail": "No contact address has been configured yet.",
+    "emailLabel": "Email",
+    "sourcesIntro": "All works listed as recommended reading across the site. Listing a work does not mean every claim on a page has been checked against it yet. Pages stay drafts until that check is done.",
+    "citedOn": "Cited on",
+    "authorsIntro": "The people and teams who write and review the content."
+  },
+  "consent": {
+    "text": "This site can use Google Analytics to understand which pages are read. It only loads after you accept. Declining has no effect on how the site works.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "settings": "Cookie settings"
+  }
+}

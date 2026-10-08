@@ -1,0 +1,410 @@
+{
+  "site": {
+    "name": "Geschichte & Zivilisationen",
+    "tagline": "Eine digitale Enzyklopädie der Menschheitsgeschichte"
+  },
+  "skip": "Zum Inhalt springen",
+  "nav": {
+    "home": "Start",
+    "civilizations": "Zivilisationen",
+    "search": "Suche",
+    "about": "Über das Projekt",
+    "menu": "Menü",
+    "primary": "Hauptnavigation",
+    "people": "Personen",
+    "events": "Ereignisse",
+    "places": "Orte",
+    "articles": "Artikel",
+    "timeline": "Zeitleiste",
+    "map": "Karte",
+    "quizzes": "Quiz",
+    "compare": "Vergleich",
+    "onThisDay": "An diesem Tag",
+    "more": "Mehr",
+    "mysteries": "Rätsel",
+    "archaeology": "Archäologie",
+    "technology": "Antike Technik",
+    "familyTrees": "Stammbäume"
+  },
+  "theme": {
+    "toggle": "Zwischen hellem und dunklem Modus wechseln"
+  },
+  "lang": {
+    "label": "Sprache"
+  },
+  "hero": {
+    "title": "Entdecke die Geschichten, die die menschliche Zivilisation geprägt haben",
+    "subtitle": "Erkunde Zivilisationen, Reiche, historische Persönlichkeiten, archäologische Entdeckungen, antike Technik und die Rätsel der Vergangenheit.",
+    "placeholder": "Geschichte, Zivilisationen, Personen, Orte suchen ...",
+    "button": "Suchen"
+  },
+  "home": {
+    "featured": "Zivilisationen erkunden",
+    "viewAll": "Alle Zivilisationen ansehen",
+    "regions": "Die Welt erkunden",
+    "chronologyTitle": "Zivilisationen im Lauf der Zeit",
+    "chronologyIntro": "Jeder Balken zeigt die ungefähre Dauer einer Zivilisation. Wähle einen aus, um die Seite zu öffnen.",
+    "openTimeline": "Interaktive Zeitleiste öffnen",
+    "openMap": "Karte öffnen"
+  },
+  "civ": {
+    "title": "Zivilisationen",
+    "intro": "Von den ersten Städten Mesopotamiens bis zu den Reichen Amerikas. Nach Region filtern.",
+    "allRegions": "Alle Regionen",
+    "period": "Zeitraum",
+    "region": "Region",
+    "notTranslated": "Diese Seite ist noch nicht in deiner Sprache verfügbar. Der englische Text wird angezeigt.",
+    "reviewDraft": "Status: Entwurf. Quellen und Faktenprüfung werden noch ergänzt, bevor die Seite als geprüft veröffentlicht wird.",
+    "back": "Alle Zivilisationen",
+    "count": "{n} Zivilisationen"
+  },
+  "search": {
+    "title": "Suche",
+    "placeholder": "Geschichte, Zivilisationen, Personen, Orte suchen ...",
+    "button": "Suchen",
+    "results": "{n} Ergebnisse für „{q}“",
+    "none": "Keine Ergebnisse für „{q}“. Prüfe die Schreibweise oder versuche einen allgemeineren Begriff.",
+    "hint": "Gib einen Namen wie Ägypten, Rom oder Maya ein. Die Suche funktioniert in allen Sprachen der Seite.",
+    "type": "Zivilisation",
+    "recent": "Letzte Suchen",
+    "popular": "Beliebte Suchen",
+    "clear": "Löschen",
+    "filters": "Filter",
+    "typeFilter": "Inhaltstyp",
+    "civFilter": "Zivilisation",
+    "periodFilter": "Zeitraum",
+    "regionFilter": "Region",
+    "all": "Alle",
+    "reset": "Filter zurücksetzen",
+    "before": "Vor {y}",
+    "after": "Nach {y}",
+    "resultsBrowse": "{n} Ergebnisse",
+    "noneFilters": "Keine Ergebnisse für diese Filter.",
+    "suggestions": "Vorschläge"
+  },
+  "era": {
+    "bce": "v. Chr.",
+    "ce": "n. Chr.",
+    "circa": "ca."
+  },
+  "regions": {
+    "africa": "Afrika",
+    "middleEast": "Naher Osten",
+    "europe": "Europa",
+    "asia": "Asien",
+    "americas": "Amerika"
+  },
+  "about": {
+    "title": "Über dieses Projekt",
+    "body1": "Geschichte & Zivilisationen ist eine mehrsprachige digitale Enzyklopädie der Menschheitsgeschichte, gebaut, um von wenigen auf tausende Seiten zu wachsen.",
+    "body2": "Jede Seite durchläuft denselben Ablauf: Recherche, Entwurf, Quellenprüfung, menschliche Redaktion, Veröffentlichung. Seiten ohne abgeschlossene Prüfung sind als Entwurf markiert.",
+    "body3": "Bilder werden nur verwendet, wenn ihre Lizenz es erlaubt, und tragen jeweils Quelle, Urheber und Lizenz."
+  },
+  "footer": {
+    "explore": "Entdecken",
+    "project": "Projekt",
+    "languages": "Sprachen",
+    "disclaimer": "Als Entwurf markierte Inhalte wurden noch nicht vollständig anhand von Quellen geprüft."
+  },
+  "breadcrumb": {
+    "home": "Start",
+    "label": "Brotkrumennavigation"
+  },
+  "types": {
+    "civilization": "Zivilisation",
+    "person": "Person",
+    "event": "Ereignis",
+    "place": "Ort",
+    "article": "Artikel",
+    "mystery": "Rätsel",
+    "artifact": "Fundstück",
+    "technology": "Technik"
+  },
+  "lists": {
+    "people": {
+      "title": "Historische Persönlichkeiten",
+      "intro": "Herrscher, Feldherren und Denker, die ihre Welt geprägt haben."
+    },
+    "events": {
+      "title": "Ereignisse",
+      "intro": "Schlachten, Gründungen und Wendepunkte in zeitlicher Reihenfolge."
+    },
+    "places": {
+      "title": "Orte",
+      "intro": "Städte und archäologische Stätten, jeweils mit Standort."
+    },
+    "articles": {
+      "title": "Artikel",
+      "intro": "Kurze, quellenbasierte Texte. Jeder Artikel nennt seine Quellen."
+    }
+  },
+  "detail": {
+    "life": "Leben",
+    "date": "Datum",
+    "location": "Ort",
+    "coordinates": "Koordinaten",
+    "certainty": "Gesichertheit",
+    "certaintyValues": {
+      "established": "Gut belegt",
+      "approximate": "Ungefähres Datum",
+      "debated": "In der Forschung umstritten"
+    },
+    "kind": {
+      "city": "Stadt",
+      "site": "Archäologische Stätte"
+    },
+    "civilizations": "Zivilisationen",
+    "people": "Personen",
+    "events": "Ereignisse",
+    "places": "Orte",
+    "articles": "Artikel",
+    "sources": "Quellen & Literatur",
+    "sourcesNote": "Bibliografische Angaben als Ausgangspunkt der Prüfung. Sie wurden noch nicht Seite für Seite von einem menschlichen Prüfer abgeglichen.",
+    "noSources": "Es sind noch keine Quellen angehängt. Diese Seite bleibt Entwurf, bis sie ergänzt wurden.",
+    "primary": "Primärquelle",
+    "academic": "Wissenschaftliche Arbeit",
+    "by": "Von",
+    "published": "Veröffentlicht",
+    "updated": "Aktualisiert",
+    "minRead": "{n} Min. Lesezeit",
+    "count": "{n} Einträge",
+    "circa": "ca.",
+    "born": "geboren",
+    "died": "gestorben",
+    "authorPage": "Autor",
+    "authorArticles": "Artikel dieses Autors",
+    "backTo": "Zurück zu {x}"
+  },
+  "roles": {
+    "ruler": "Herrscher",
+    "statesman": "Staatsmann"
+  },
+  "rel": {
+    "people": "Personen",
+    "events": "Ereignisse",
+    "places": "Orte",
+    "articles": "Artikel",
+    "civilizations": "Zivilisationen",
+    "sources": "Quellen und weiterführende Literatur",
+    "timeline": "Zeitleiste"
+  },
+  "lbl": {
+    "born": "Geboren",
+    "died": "Gestorben",
+    "date": "Datum",
+    "coordinates": "Koordinaten",
+    "unknown": "unbekannt",
+    "author": "Autor",
+    "updated": "Zuletzt aktualisiert",
+    "readingTime": "{n} Min. Lesezeit",
+    "openMap": "In OpenStreetMap öffnen",
+    "sourcesNote": "Diese Werke sind als Lektüreempfehlung aufgeführt. Einzelne Aussagen dieser Seite wurden noch nicht Punkt für Punkt damit abgeglichen.",
+    "role": "Rolle"
+  },
+  "pages": {
+    "people": {
+      "title": "Personen",
+      "intro": "Herrscher, Staatsmänner und andere Gestalten, die die antike Welt geprägt haben."
+    },
+    "events": {
+      "title": "Ereignisse",
+      "intro": "Schlachten, Eroberungen und Wendepunkte in zeitlicher Reihenfolge."
+    },
+    "places": {
+      "title": "Orte",
+      "intro": "Städte, Heiligtümer und archäologische Stätten mit Koordinaten."
+    },
+    "articles": {
+      "title": "Artikel",
+      "intro": "Kurze Erklärtexte, die Zivilisationen, Personen, Ereignisse und Orte verbinden."
+    }
+  },
+  "timeline": {
+    "title": "Zeitleiste",
+    "intro": "Zoome und bewege dich durch die Zeit. Balken zeigen Zivilisationen, Punkte zeigen Ereignisse. Wähle ein Ereignis für Details.",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Verkleinern",
+    "reset": "Alles anzeigen",
+    "panBack": "Früher",
+    "panForward": "Später",
+    "viewing": "Angezeigt: {a} – {b}",
+    "jump": "Springe zu",
+    "eras": {
+      "ancient": "Alte Geschichte",
+      "classical": "Klassische Antike",
+      "lateAntiquity": "Spätantike",
+      "middleAges": "Mittelalter",
+      "earlyModern": "Frühe Neuzeit",
+      "modern": "Neuere Geschichte"
+    },
+    "civRow": "Zivilisationen",
+    "eventRow": "Ereignisse",
+    "inView": "Ereignisse in dieser Ansicht",
+    "none": "In diesem Zeitraum gibt es noch nichts. Die Sammlung wächst noch.",
+    "close": "Schließen",
+    "openPage": "Ganze Seite öffnen",
+    "openCiv": "Zivilisationsseite öffnen"
+  },
+  "eras": {
+    "prehistory": "Vorgeschichte",
+    "ancient": "Alte Geschichte",
+    "classical": "Klassische Antike",
+    "lateAntiquity": "Spätantike",
+    "middleAges": "Mittelalter",
+    "earlyModern": "Frühe Neuzeit",
+    "modern": "Neuzeit"
+  },
+  "map": {
+    "title": "Historische Karte",
+    "intro": "Orte nach Zivilisation erkunden. Wähle einen Ort für Details.",
+    "allCivs": "Alle Zivilisationen",
+    "civFilter": "Zivilisation",
+    "list": "Orte",
+    "hint": "Wähle einen Ort auf der Karte oder in der Liste.",
+    "baseNote": "Die Grundkarte zeigt die heutige Geografie. Historische Grenzen sind noch nicht eingezeichnet.",
+    "open": "Karte öffnen",
+    "viewPage": "Ganze Seite öffnen",
+    "loading": "Karte wird geladen …"
+  },
+  "periods": {
+    "prehistory": "Vorgeschichte",
+    "ancient": "Alte Geschichte",
+    "classical": "Klassische Antike",
+    "lateAntiquity": "Spätantike",
+    "middleAges": "Mittelalter",
+    "earlyModern": "Frühe Neuzeit",
+    "modern": "Neuzeit"
+  },
+  "tl": {
+    "title": "Interaktive Zeitleiste",
+    "intro": "Zoome hinein und heraus und wähle ein Ereignis für Details. Epochengrenzen sind Konventionen und werden unterschiedlich gezogen.",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Verkleinern",
+    "close": "Schließen",
+    "allCivs": "Alle Zivilisationen",
+    "civFilter": "Zivilisation",
+    "open": "Interaktive Zeitleiste öffnen",
+    "viewPage": "Ganze Seite öffnen",
+    "civBars": "Zivilisationen",
+    "eventsRow": "Ereignisse"
+  },
+  "quiz": {
+    "title": "Quiz",
+    "intro": "Teste dein Wissen über eine Zivilisation. Antworten und Erklärungen erscheinen am Ende.",
+    "count": "{n} Fragen",
+    "question": "Frage {n} von {m}",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "finish": "Beenden",
+    "chooseFirst": "Wähle eine Antwort, um fortzufahren.",
+    "score": "Ergebnis: {s} von {m}",
+    "correctN": "Richtige Antworten: {n}",
+    "wrongN": "Falsche Antworten: {n}",
+    "yourAnswer": "Deine Antwort",
+    "correctAnswer": "Richtige Antwort",
+    "explanation": "Erklärung",
+    "retake": "Quiz wiederholen",
+    "all": "Alle Quiz",
+    "correct": "Richtig",
+    "wrong": "Falsch"
+  },
+  "cmp": {
+    "title": "Zivilisationen vergleichen",
+    "intro": "Stelle zwei Zivilisationen nebeneinander. Der Vergleich beschreibt Gemeinsamkeiten und Unterschiede und bewertet nicht.",
+    "civA": "Erste Zivilisation",
+    "civB": "Zweite Zivilisation",
+    "quick": "Schnellvergleiche",
+    "note": "Zeilen zu Militär, Wissenschaft und Kultur fehlen noch. Der Text ist eine kurze Orientierung und noch nicht Seite für Seite geprüft.",
+    "dims": {
+      "period": "Zeitraum",
+      "region": "Region",
+      "geography": "Geografie",
+      "government": "Regierung",
+      "religion": "Religion",
+      "writing": "Schrift",
+      "architecture": "Architektur",
+      "economy": "Wirtschaft"
+    }
+  },
+  "otd": {
+    "title": "An diesem Tag",
+    "intro": "Historische Ereignisse, die an einem bestimmten Kalendertag stattfanden.",
+    "today": "Heute",
+    "month": "Monat",
+    "day": "Tag",
+    "none": "Für dieses Datum gibt es im aktuellen Datenbestand keinen Eintrag.",
+    "upcoming": "Nächste Daten im Datenbestand",
+    "note": "Daten antiker Ereignisse folgen dem Julianischen Kalender, und die Genauigkeit auf den Tag ist unterschiedlich. Aufgeführt sind nur Einträge mit belegtem Tag; die Liste wächst mit geprüften Einträgen."
+  },
+  "mys": {
+    "title": "Historische Rätsel",
+    "intro": "Offene Fragen der Vergangenheit. Jeder Eintrag trennt Gesichertes von bloßen Vorschlägen.",
+    "note": "Theorien werden als Theorien dargestellt. Nichts hier gilt als gesicherte Tatsache, sofern der Eintrag es nicht sagt.",
+    "sections": {
+      "know": "Was wir wissen",
+      "evidence": "Belege",
+      "unknown": "Was wir nicht wissen",
+      "theories": "Historische Theorien",
+      "arguments": "Argumente",
+      "uncertainty": "Unsicherheit"
+    }
+  },
+  "arch": {
+    "title": "Archäologie",
+    "intro": "Stätten und Objekte, die die Belege für die antike Geschichte tragen.",
+    "sites": "Archäologische Stätten",
+    "artifacts": "Fundstücke",
+    "heldAt": "Aufbewahrt in"
+  },
+  "tech": {
+    "title": "Antike Technik",
+    "intro": "Wie antike Gesellschaften bauten, Wasser leiteten und Aufzeichnungen führten.",
+    "category": "Bereich",
+    "categories": {
+      "construction": "Bauwesen",
+      "water": "Wasserwirtschaft",
+      "writing": "Schreibmaterial"
+    }
+  },
+  "tree": {
+    "title": "Stammbäume",
+    "intro": "Interaktive Stammbäume. Wähle eine Person mit eigener Seite, um sie zu öffnen.",
+    "legend": {
+      "parent": "Elternteil zu Kind",
+      "spouse": "Ehepartner",
+      "partner": "Partner (förmliche Ehe unsicher oder nicht belegt)"
+    },
+    "relationships": "Beziehungen in Textform",
+    "rel": {
+      "parent": "{a} ist ein Elternteil von {b}",
+      "spouse": "{a} und {b} waren verheiratet",
+      "partner": "{a} und {b} waren Partner"
+    }
+  },
+  "legalNav": {
+    "contact": "Kontakt",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "disclaimer": "Haftungsausschluss",
+    "cookies": "Cookie-Richtlinie",
+    "sources": "Quellen",
+    "authors": "Autoren"
+  },
+  "legal": {
+    "notConfigured": "[vom Betreiber der Seite zu ergänzen]",
+    "template": "Mustertext. Der Betreiber muss die Betreiberangaben ergänzen und diese Seite vor dem Start rechtlich prüfen lassen.",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "contactIntro": "Fragen, Korrekturen und Quellenvorschläge sind willkommen. Korrekturen zu historischen Inhalten helfen am meisten, wenn sie eine Quelle nennen.",
+    "noEmail": "Es wurde noch keine Kontaktadresse eingerichtet.",
+    "emailLabel": "E-Mail",
+    "sourcesIntro": "Alle auf der Seite als Lektüre empfohlenen Werke. Dass ein Werk aufgeführt ist, heißt nicht, dass jede Aussage einer Seite bereits damit abgeglichen wurde. Seiten bleiben Entwürfe, bis dies geschehen ist.",
+    "citedOn": "Genannt auf",
+    "authorsIntro": "Die Personen und Teams, die die Inhalte schreiben und prüfen."
+  },
+  "consent": {
+    "text": "Diese Seite kann Google Analytics nutzen, um zu verstehen, welche Seiten gelesen werden. Es wird erst nach deiner Zustimmung geladen. Ablehnen hat keine Auswirkung auf die Funktion der Seite.",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen",
+    "settings": "Cookie-Einstellungen"
+  }
+}

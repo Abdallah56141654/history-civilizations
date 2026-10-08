@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f3f4f1;
+  --surface: #ffffff;
+  --ink: #16202b;
+  --muted: #526070;
+  --line: #d5d9d3;
+  --control: #7a8591; /* >= 3:1 on bg and surface, for borders of interactive controls */
+  --lapis: #1f4e8c;
+  --ochre: #8f6212;
+  --font-display: var(--f-serif);
+  --font-ui: var(--f-sans);
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --bg: #0d141c;
+  --surface: #141d28;
+  --ink: #e9ecef;
+  --muted: #9aa7b5;
+  --line: #2a3644;
+  --control: #6d7d90;
+  --lapis: #8db1e8;
+  --ochre: #e0b25a;
+  color-scheme: dark;
+}
+
+/* Script-specific type: Arabic and Chinese get their own families */
+html[lang="ar"] {
+  --font-display: var(--f-ar), var(--f-serif);
+  --font-ui: var(--f-ar), var(--f-sans);
+}
+html[lang^="zh"] {
+  --font-display: var(--f-zh), var(--f-serif);
+  --font-ui: var(--f-zh), var(--f-sans);
+}
+
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition: none !important; }
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-ui), system-ui, sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+html[lang="ar"] body { line-height: 1.9; }
+
+:focus-visible {
+  outline: 3px solid var(--lapis);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.prose-text { max-width: 68ch; }
+.clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

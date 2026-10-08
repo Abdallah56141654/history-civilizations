@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Page not found</title>
+  <style>
+    body{font-family:Georgia,serif;margin:0;padding:2rem;background:#f3f4f1;color:#16202b;line-height:1.6}
+    @media (prefers-color-scheme:dark){body{background:#0d141c;color:#e9ecef}a{color:#8db1e8}}
+    main{max-width:40rem;margin:0 auto}a{color:#1f4e8c}li{margin:.3rem 0}
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Page not found</h1>
+    <p>This page does not exist. Choose a language to continue.</p>
+    <!-- Hosting under a sub-path (GitHub project page)? Set BASE to "/your-repo". -->
+    <ul id="langs"></ul>
+    <script>
+      var BASE = "";
+      var L = [["en","English"],["ar","العربية"],["de","Deutsch"],["fr","Français"],["es","Español"],["it","Italiano"],["zh","中文"]];
+      var ul = document.getElementById("langs");
+      L.forEach(function (l) {
+        var li = document.createElement("li"), a = document.createElement("a");
+        a.href = BASE + "/" + l[0] + "/"; a.lang = l[0]; a.textContent = l[1];
+        li.appendChild(a); ul.appendChild(li);
+      });
+    </script>
+  </main>
+</body>
+</html>
